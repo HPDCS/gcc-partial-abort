@@ -1,1 +1,1 @@
-A preliminary implementation of a partial abort schema within GCC-TM
+A preliminary implementation of a partial abort scheme in GCC-TM
